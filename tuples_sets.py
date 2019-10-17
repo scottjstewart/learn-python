@@ -3,25 +3,20 @@
 # create a tuple single value needs trailing comma
 fruits = ('apples', 'oranges', 'grapes')
 fruits2 = ('apples',)
-# with a constructor not used
+# with a constructor this is normally not used
 # fruits2 = tuple(('apples', 'oranges', 'grapes'))
 
 # single value same as list
 print(fruits[1])
-
 # tuples cant be changed
 # fruits[0] = 'pears'
-
 # delete tuple
 del fruits2
-
 # length is same as list
-
 # print(fruits, type(fruits2))
 
+
 # A Set is a collection which is unordered and unindexed. No duplicate members.
-
-
 # create a set
 fruits_set = {'apples', 'oranges', 'grapes'}
 
