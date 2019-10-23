@@ -1,5 +1,6 @@
 # Example of a custom module to be imported
 
+# this is a core module
 import re
 
 
